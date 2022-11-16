@@ -25,6 +25,7 @@
     "mocha-multi": "^1.1.0"
   },
   "dependencies": {
-    "chai-fs": "^2.0.0"
+    "chai-fs": "^2.0.0",
+    "first": "^0.0.3"
   }
 }
